@@ -1,6 +1,6 @@
 # DLH
 
-In order to run the main report, after cloning this repo, run everything from the DL4H_Team_159.ipynb. Dependencies: Any version of python 3.6
+In order to run the main report, after cloning this repo, run everything from the DL4H_Team_159.ipynb. Dependencies: Any version of python 3.6 or above.
 
 In order to run the ablations, follow the instructions of running DeepMicro: https://github.com/minoh0201/DeepMicro/tree/master
 
