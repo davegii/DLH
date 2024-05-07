@@ -1,8 +1,14 @@
 # DLH
 
-In order to run the main report, after cloning this repo, run everything from the DL4H_Team_159.ipynb. It should work out of the box. Make sure to run the '!pip install' in the file. If you are having any additional trouble, run the setup:
+## Main Setup
 
-## Setup (Optional)
+In order to run the main report, after cloning this repo:
+
+```git clone https://github.com/davegii/DLH```
+
+Then run everything from the DL4H_Team_159.ipynb in Jupyter Notebook. It should work out of the box. Make sure to run the '!pip install' in the file. If you are having any additional trouble, run the setup:
+
+## Complete Setup (Optional)
 In order to run the main report, after cloning this repo, run everything from the DL4H_Team_159.ipynb. 
 
 Step 1: Change the current working directory to the location where you want to install/clone this repo.
